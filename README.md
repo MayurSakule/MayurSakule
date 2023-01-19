@@ -13,7 +13,7 @@
 <br>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{MayurSakule}/count.svg" alt="MayurSakule :: Visitor's Count" />
-<img src="https://komarev.com/ghpvc/?username=Greymattersbot&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=MayurSakule&color=brightgreen" alt="watching_count" />
 </p>
 
 <h3 align="center"><b><i>🏆 Github Statistics :-</i></b></h3>
