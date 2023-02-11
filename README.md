@@ -1,4 +1,4 @@
-![logo]https://github.com/MayurSakule/MayurSakule/blob/Master/Github%20Banner.png
+![logo](https://github.com/MayurSakule/MayurSakule/blob/Master/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm 𝐌𝐀𝐘𝐔𝐑 𝐒𝐀𝐊𝐔𝐋𝐄</h1>
 <h3 align="center">𝐁𝐢𝐠 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫</h3>
 
