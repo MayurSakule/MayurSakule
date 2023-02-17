@@ -19,7 +19,7 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayursakule&show_icons=true&locale=en&layout=compact" alt="mayursakule" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayursakule&show_icons=true&locale=en&layout=compact" alt="mayursakule" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayursakule&show_icons=true&locale=en" alt="mayursakule" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayursakule&" alt="mayursakule" /></p>
 
