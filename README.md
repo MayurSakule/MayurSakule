@@ -25,7 +25,7 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=mayursakule&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayursakule&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/github-profile-languages/?username=mayursakule&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayursakule&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayursakule" alt="mayursakule" /></a> </p>
